@@ -1,3 +1,3 @@
 # DIO_JS_Sintaxe_Basica
-==Teoria e aplicação de sintaxe básica em JavaScript==
+==Teoria e aplicação de sintaxe básica em JavaScript==<br>
 Conteúdo e material produzido no curso.
